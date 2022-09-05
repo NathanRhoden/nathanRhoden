@@ -13,6 +13,8 @@
 
 # Blog posts
 <!-- HASHNODE:START -->
+- [Context , Prop drilling and Sharing data in React](https://nathansdevblog.hashnode.dev/context-prop-drilling-and-sharing-data-in-react)
+- [Lets Get Recursive](https://nathansdevblog.hashnode.dev/lets-get-recursive-1)
 <!-- HASHNODE:END -->
 
 <br />
