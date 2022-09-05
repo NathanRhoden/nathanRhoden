@@ -5,10 +5,16 @@
 - 🥅 2022 Goal : Contribute to Open source projects I use 
 
 ### Connect with me:
-[<img align="left" alt="nathanRhoden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="nathanRhoden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nathanRhoden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />][gmail]
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/nathan-rhoden-99b321a8
+[gmail] : Nathan.rhoden@gmail.com
