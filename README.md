@@ -7,7 +7,6 @@
 ### Connect with me:
 
 [<img align="left" alt="nathanRhoden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nathanRhoden | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />][gmail]
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
