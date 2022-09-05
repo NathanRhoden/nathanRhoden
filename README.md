@@ -1,6 +1,6 @@
 ### Hey there , I'm Nathan thanks for stopping by 👋
 
-## Im a developer with a passion for turning thoughts into code.
+## Im a developer with a passion for turning ideas into code.
 - 🔋 I've recently built a Electric-vehicle charging Map 
 - 🥅 2022 Goal : Contribute to Open source projects I use 
 
