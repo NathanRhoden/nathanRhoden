@@ -19,4 +19,3 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/nathan-rhoden-99b321a8
-[gmail] : "Nathan.rhoden@gmail.com"
