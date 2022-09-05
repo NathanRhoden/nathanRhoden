@@ -11,4 +11,4 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/nathan-rhoden-99b321a8/
+[linkedin]: https://www.linkedin.com/in/nathan-rhoden-99b321a8
