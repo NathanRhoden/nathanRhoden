@@ -2,7 +2,7 @@
 
 ## Im a developer with a passion for turning ideas into code.
 - 🔋 I've recently built a Electric-vehicle charging Map 
-- 🥅 2024 Goal : Contribute to Open source projects I use 
+- 🥅 2025 Goal : Contribute to Open source projects I use 
 
 ### Connect with me:
 
